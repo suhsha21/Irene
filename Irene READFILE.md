@@ -36,7 +36,7 @@ Calculated time in days in Excel.
 
 Saved data as a text file and uploaded to Irene directory.
 
-# Data Results:
+# Data Results
 
 Duke Marine Lab, NC experienced storm surge of approximately 0.9 m. However, GeoClaw predicts close to 0.5 m of storm surge.
 
